@@ -16,4 +16,5 @@
   - does not block the underlying thread
 - structured concurrency
   - An outer scope cannot complete until all its children coroutines complete.
-- 
+
+## Concurrency vs Sequential and Batched Job
